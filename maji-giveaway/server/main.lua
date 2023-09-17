@@ -1,4 +1,4 @@
-local discordWebhookUrl = Config.Webhook
+local discordWebhookUrl = "YOUR_WEBHOOK_HERE"
 local logFile = "license_identifiers.txt"
 local playerCountFile = "player_count.txt"
 
